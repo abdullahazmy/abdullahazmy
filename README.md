@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazmy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazmy" /> </p>
 
 
-- 💬 Ask me about **c++, java, dart**
+- 💬 Ask me about **c++, Java, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
