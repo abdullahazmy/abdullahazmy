@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Azmy</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-<img align="right" alt="Coding" width="400" src="[[https://github.com/abdullahazmy/abdullahazmy/assets/125517573/510a608f-22ff-4018-9268-789ffa40de7a
-](https://www.britannica.com/topic/Al-Aqsa-Mosque)](https://islamimanihsan.tumblr.com/post/96150953056/thepalestineyoudontknow-these-gifs-for-alaqsa)
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/XivkpQ8gK95rhVVEA
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazmy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazmy" /> </p>
 
