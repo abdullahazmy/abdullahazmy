@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Azmy</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/XivkpQ8gK95rhVVEA
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/abdullahazmy/abdullahazmy/assets/125517573/96bc08eb-a5c6-495d-9048-71488e5739d2)
+
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazmy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazmy" /> </p>
 
