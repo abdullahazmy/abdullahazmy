@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Azmy</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-<img align="right" alt="Coding" width="400" src="[![image](https://github.com/abdullahazmy/abdullahazmy/assets/125517573/1140a034-b8b4-4ee3-96b6-a88f0375f3a0)](https://giphy.com/gifs/al-aqsa-mosque-jsewia7G80CqXlepcE)
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/abdullahazmy/abdullahazmy/assets/125517573/f980dbf6-65e6-4810-b491-1ca2decc5e8d)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazmy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazmy" /> </p>
 
