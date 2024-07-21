@@ -43,7 +43,7 @@
 1. DataStructure
 2. Algorithms
 
-> [!NOTE]
+> [!IMPORTANT]
 > To Allah ˹alone˺ belongs the knowledge of what is hidden in the heavens and the earth. And to Him all matters are returned. So worship Him and put your trust in Him. And your Lord is never unaware of what you do. (Quran 11:123)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
