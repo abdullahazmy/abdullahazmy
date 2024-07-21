@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullahazmyelsherbini/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahazmy" height="30" width="40" /></a> <a href="https://wa.me/201069774435/"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat"> </a>
 
-
+<a href="https://www.linkedin.com/in/abdullahazmyelsherbini/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><\a>
 
 </p>
 
