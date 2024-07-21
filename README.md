@@ -29,6 +29,9 @@
 
 <a href="https://codeforces.com/profile/abdullah_azmy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a> <a href="https://leetcode.com/u/abdullahazmy/"><img src ="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 
+[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=Codewars)](https://www.codewars.com/users/Abdullah30192)
+
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
