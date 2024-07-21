@@ -43,8 +43,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdullahazmy}/count.svg" /></p> 
 <br></div>
 
-
-
 ---
 
 ### Studying in this moment:
