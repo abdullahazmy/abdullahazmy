@@ -2,8 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Abdullah+Azmy;I'm+20+years+old;I+am+from+Egypt;I+study+Computer+Science+at+MUST_University;A+Software+Engineer!+:%29)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahazmy&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahazmy" /> </p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdullahazmy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Abdullah Azmy Status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahazmy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 <h3 align="left">Contact Me:</h3>
