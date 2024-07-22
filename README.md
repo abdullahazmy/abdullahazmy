@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullahazmyelsherbini/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://wa.me/201069774435/"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat"> </a>
 
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)](https://discord.com/users/_abdullahazmy)
-
 
 </p>
 
