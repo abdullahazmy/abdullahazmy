@@ -45,6 +45,11 @@
 
 ---
 
+<!--START_SECTION:activity-->
+
+
+---
+
 ### Studying in this moment:
 1. DataStructure
 2. Algorithms
