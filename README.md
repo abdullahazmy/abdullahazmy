@@ -56,7 +56,7 @@
 ### Studying in this moment:
 1. DataStructure
 2. Algorithms
-3. .Net
+3. C# & .Net Core
 
 ---
 
