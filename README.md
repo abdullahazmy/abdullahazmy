@@ -42,12 +42,12 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/abdullahazmy/DataStructure/issues/2) in [abdullahazmy/DataStructure](https://github.com/abdullahazmy/DataStructure)
+1. 🗣 Commented on [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1#issuecomment-2427729402) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
 
-2. 🔒 Closed issue [#3](https://github.com/ToYoNiX/debian-project/issues/3) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
-3. 🗣 Commented on [#578](https://github.com/ChrisTitusTech/linutil/issues/578#issuecomment-2365127888) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-4. ❗ Opened issue [#578](https://github.com/ChrisTitusTech/linutil/issues/578) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-5. 🗣 Commented on [#23](https://github.com/ChrisTitusTech/linutil/issues/23#issuecomment-2344641367) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+2. ❗ Opened issue [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
+3. 🔒 Closed issue [#2](https://github.com/abdullahazmy/DataStructure/issues/2) in [abdullahazmy/DataStructure](https://github.com/abdullahazmy/DataStructure)
+4. 🔒 Closed issue [#3](https://github.com/ToYoNiX/debian-project/issues/3) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
+5. 🗣 Commented on [#578](https://github.com/ChrisTitusTech/linutil/issues/578#issuecomment-2365127888) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
 
