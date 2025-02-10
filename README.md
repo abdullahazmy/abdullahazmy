@@ -42,9 +42,9 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
+1. 🔒 Closed issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
 
-2. 🗣 Commented on [#5](https://github.com/ToYoNiX/debian-project/issues/5#issuecomment-2428940734) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
+2. ❗ Opened issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
 3. ❗ Opened issue [#5](https://github.com/ToYoNiX/debian-project/issues/5) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
 4. 🔒 Closed issue [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
 5. 🗣 Commented on [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1#issuecomment-2427729402) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
