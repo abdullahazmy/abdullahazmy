@@ -42,7 +42,7 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
+1. ❗ Opened issue [#2](https://github.com/ByteBuilderFriends/EdufyAPI/issues/2) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
 
 2. ❗ Opened issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
 3. ❗ Opened issue [#5](https://github.com/ToYoNiX/debian-project/issues/5) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
