@@ -42,11 +42,11 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/ByteBuilderFriends/EdufyAPI/issues/2) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+1. ❗ Opened issue [#4](https://github.com/ByteBuilderFriends/EdufyAPI/issues/4) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
 
-2. ❗ Opened issue [#1](https://github.com/mostafa7hmmad/Customer-Segmentation/issues/1) in [mostafa7hmmad/Customer-Segmentation](https://github.com/mostafa7hmmad/Customer-Segmentation)
-3. ❗ Opened issue [#5](https://github.com/ToYoNiX/debian-project/issues/5) in [ToYoNiX/debian-project](https://github.com/ToYoNiX/debian-project)
-4. 🔒 Closed issue [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
+2. ❗ Opened issue [#3](https://github.com/ByteBuilderFriends/EdufyAPI/issues/3) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+3. 🔒 Closed issue [#2](https://github.com/ByteBuilderFriends/EdufyAPI/issues/2) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+4. ❗ Opened issue [#2](https://github.com/ByteBuilderFriends/EdufyAPI/issues/2) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
 5. 🗣 Commented on [#1](https://github.com/abdallamohamed12/Edufy_Project/issues/1#issuecomment-2427729402) in [abdallamohamed12/Edufy_Project](https://github.com/abdallamohamed12/Edufy_Project)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
