@@ -42,12 +42,12 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/ByteBuilderFriends/EdufyAPI/issues/7) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+1. ❗ Opened issue [#9](https://github.com/ByteBuilderFriends/EdufyAPI/issues/9) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
 
-2. ❗ Opened issue [#6](https://github.com/ByteBuilderFriends/EdufyAPI/issues/6) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
-3. 🔒 Closed issue [#5](https://github.com/ByteBuilderFriends/EdufyAPI/issues/5) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
-4. 🔒 Closed issue [#4](https://github.com/ByteBuilderFriends/EdufyAPI/issues/4) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
-5. ❗ Opened issue [#4](https://github.com/ByteBuilderFriends/EdufyAPI/issues/4) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+2. ❗ Opened issue [#7](https://github.com/ByteBuilderFriends/EdufyAPI/issues/7) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+3. ❗ Opened issue [#6](https://github.com/ByteBuilderFriends/EdufyAPI/issues/6) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+4. 🔒 Closed issue [#5](https://github.com/ByteBuilderFriends/EdufyAPI/issues/5) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
+5. 🔒 Closed issue [#4](https://github.com/ByteBuilderFriends/EdufyAPI/issues/4) in [ByteBuilderFriends/EdufyAPI](https://github.com/ByteBuilderFriends/EdufyAPI)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
 
