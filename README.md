@@ -42,12 +42,12 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/abdullahazmy/Condiuit-realworld/issues/3) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
+1. ❗ Opened issue [#5](https://github.com/abdullahazmy/Condiuit-realworld/issues/5) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
 
-2. ❗ Opened issue [#2](https://github.com/abdullahazmy/Condiuit-realworld/issues/2) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
-3. ❗ Opened issue [#1](https://github.com/abdullahazmy/Condiuit-realworld/issues/1) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
-4. 🔒 Closed issue [#14](https://github.com/mafazaa-org/dns-server/issues/14) in [mafazaa-org/dns-server](https://github.com/mafazaa-org/dns-server)
-5. ❗ Opened issue [#14](https://github.com/mafazaa-org/dns-server/issues/14) in [mafazaa-org/dns-server](https://github.com/mafazaa-org/dns-server)
+2. ❗ Opened issue [#4](https://github.com/abdullahazmy/Condiuit-realworld/issues/4) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
+3. ❗ Opened issue [#3](https://github.com/abdullahazmy/Condiuit-realworld/issues/3) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
+4. ❗ Opened issue [#2](https://github.com/abdullahazmy/Condiuit-realworld/issues/2) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
+5. ❗ Opened issue [#1](https://github.com/abdullahazmy/Condiuit-realworld/issues/1) in [abdullahazmy/Condiuit-realworld](https://github.com/abdullahazmy/Condiuit-realworld)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
 
