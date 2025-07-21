@@ -42,12 +42,12 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/codalyster/BookRecommenderSystem/issues/1) in [codalyster/BookRecommenderSystem](https://github.com/codalyster/BookRecommenderSystem)
+1. ❗ Opened issue [#1](https://github.com/codalyster/BookStore/issues/1) in [codalyster/BookStore](https://github.com/codalyster/BookStore)
 
-2. 🗣 Commented on [#2](https://github.com/codalyster/TrackRoom.Api/issues/2#issuecomment-3095274069) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
-3. ❗ Opened issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
-4. 🎉 Merged PR [#1](https://github.com/codalyster/TrackRoom.Api/pull/1) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
-5. 💪 Opened PR [#1](https://github.com/codalyster/TrackRoom.Api/pull/1) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
+2. ❗ Opened issue [#3](https://github.com/codalyster/BookRecommenderSystem/issues/3) in [codalyster/BookRecommenderSystem](https://github.com/codalyster/BookRecommenderSystem)
+3. 🔒 Closed issue [#1](https://github.com/codalyster/BookRecommenderSystem/issues/1) in [codalyster/BookRecommenderSystem](https://github.com/codalyster/BookRecommenderSystem)
+4. 🗣 Commented on [#2](https://github.com/codalyster/TrackRoom.Api/issues/2#issuecomment-3095274069) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
+5. ❗ Opened issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
 
