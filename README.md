@@ -42,12 +42,12 @@
 
 ### Recent Actions
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/codalyster/BookRecommendationSystem/issues/1) in [codalyster/BookRecommendationSystem](https://github.com/codalyster/BookRecommendationSystem)
+1. 🔒 Closed issue [#1](https://github.com/codalyster/BookRecommendationSystem/issues/1) in [codalyster/BookRecommendationSystem](https://github.com/codalyster/BookRecommendationSystem)
 
-2. 🔒 Closed issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
-3. 🔒 Closed issue [#2](https://github.com/codalyster/BookStore.Api/issues/2) in [codalyster/BookStore.Api](https://github.com/codalyster/BookStore.Api)
-4. 🗣 Commented on [#1](https://github.com/codalyster/BookStore/issues/1#issuecomment-3097171309) in [codalyster/BookStore](https://github.com/codalyster/BookStore)
-5. 🗣 Commented on [#1](https://github.com/codalyster/BookStore/issues/1#issuecomment-3097166305) in [codalyster/BookStore](https://github.com/codalyster/BookStore)
+2. ❗ Opened issue [#1](https://github.com/codalyster/BookRecommendationSystem/issues/1) in [codalyster/BookRecommendationSystem](https://github.com/codalyster/BookRecommendationSystem)
+3.  Assigned issue [#1](https://github.com/codalyster/BookRecommendationSystem/issues/1) in [codalyster/BookRecommendationSystem](https://github.com/codalyster/BookRecommendationSystem)
+4. 🔒 Closed issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2) in [codalyster/TrackRoom.Api](https://github.com/codalyster/TrackRoom.Api)
+5. 🔒 Closed issue [#2](https://github.com/codalyster/BookStore.Api/issues/2) in [codalyster/BookStore.Api](https://github.com/codalyster/BookStore.Api)
 5. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23) in [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 <!--END_SECTION:activity-->
 
