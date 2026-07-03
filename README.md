@@ -41,7 +41,7 @@ I've worked on enterprise solutions as well as startup products, building produc
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/201069774435">
+<a href="https://wa.me/201033390036">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
