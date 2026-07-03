@@ -26,25 +26,6 @@ I've worked on enterprise solutions as well as startup products, building produc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahazmy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahazmy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahazmy&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
