@@ -112,7 +112,7 @@ I've worked on enterprise solutions as well as startup products, building produc
 # 🚀 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/codalyster/BookRecommendationSystem/issues/1) in **codalyster/BookRecommendationSystem**
+1. 💪 Opened PR [#1](https://github.com/funcoder/omarchy-devops-board/pull/1) in [funcoder/omarchy-devops-board](https://github.com/funcoder/omarchy-devops-board)
 
 2. 🔒 Closed issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2)
 
