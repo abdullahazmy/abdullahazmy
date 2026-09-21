@@ -112,15 +112,15 @@ I've worked on enterprise solutions as well as startup products, building produc
 # 🚀 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/funcoder/omarchy-devops-board/pull/1) in [funcoder/omarchy-devops-board](https://github.com/funcoder/omarchy-devops-board)
+1. 🗣 Commented on [#8008](https://github.com/omacom/omarchy-plugin-marketplace/issues/8008#issuecomment-5768069903) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-2. 🔒 Closed issue [#2](https://github.com/codalyster/TrackRoom.Api/issues/2)
+2. 🚀 Published release [v0.1.2 — add marketplace preview](https://github.com/abdullahazmy/abdullah.adhd-pomodoro/releases/tag/v0.1.2) in [abdullahazmy/abdullah.adhd-pomodoro](https://github.com/abdullahazmy/abdullah.adhd-pomodoro)
 
-3. 🔒 Closed issue [#2](https://github.com/codalyster/BookStore.Api/issues/2)
+3. ❗ Opened issue [#8008](https://github.com/omacom/omarchy-plugin-marketplace/issues/8008) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-4. 💬 Commented on **BookStore**
+4. ❗ Opened issue [#8007](https://github.com/omacom/omarchy-plugin-marketplace/issues/8007) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-5. 💬 Commented on **BookStore**
+5. 🚀 Published release [v0.1.1 — initial marketplace submission](https://github.com/abdullahazmy/abdullah.adhd-pomodoro/releases/tag/v0.1.1) in [abdullahazmy/abdullah.adhd-pomodoro](https://github.com/abdullahazmy/abdullah.adhd-pomodoro)
 
 6. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23)
 <!--END_SECTION:activity-->
