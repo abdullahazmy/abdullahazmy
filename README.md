@@ -112,15 +112,15 @@ I've worked on enterprise solutions as well as startup products, building produc
 # 🚀 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+1. ❗ Opened issue [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-2. ❗ Opened issue [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+2. ❗ Opened issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-3. ❗ Opened issue [#8643](https://github.com/omacom/omarchy-plugin-marketplace/issues/8643) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+3. ❗ Opened issue [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-4. ❗ Opened issue [#8582](https://github.com/omacom/omarchy-plugin-marketplace/issues/8582) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+4. ❗ Opened issue [#8643](https://github.com/omacom/omarchy-plugin-marketplace/issues/8643) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
-5. ❗ Opened issue [#8568](https://github.com/omacom/omarchy-plugin-marketplace/issues/8568) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+5. ❗ Opened issue [#8582](https://github.com/omacom/omarchy-plugin-marketplace/issues/8582) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 
 6. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23)
 <!--END_SECTION:activity-->
