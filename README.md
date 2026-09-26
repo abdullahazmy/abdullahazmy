@@ -1,155 +1,115 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Abdullah+Azmy;Backend+Software+Engineer;Specialized+in+.NET,+Go+and+DevOps;Linux+Enthusiast;Problem+Solver;Always+Learning+Something+New;Muslim+and+Proud!+🤍" />
-</p>
+# Abdullah Azmy
 
----
+**Backend Software Engineer** · .NET · Go · DevOps
 
-# 💫 About Me
+📍 Egypt &nbsp;·&nbsp; 🕐 GMT+2 &nbsp;·&nbsp; 🌐 Open to remote work
 
-I'm **Abdullah Azmy**, a Backend Software Engineer from Egypt passionate about building scalable, maintainable, and high-performance software.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahazmyelsherbini/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201033390036)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abdullah_azmy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdullahazmy/)
+[![Codewars](https://img.shields.io/badge/Codewars-black?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/Abdullah30192)
 
-My primary expertise lies in:
-
-- ⚡ ASP.NET Core & .NET Ecosystem
-- 🐹 Go (Golang)
-- ☁️ Cloud & DevOps
-- 🐧 Linux
-- 🏗 Clean Architecture & Software Design
-- 🚀 REST APIs & Microservices
-- 🗄 SQL Server & PostgreSQL
-
-I enjoy solving complex engineering problems, designing distributed systems, automating infrastructure, and continuously learning modern backend technologies.
-
-I've worked on enterprise solutions as well as startup products, building production-ready applications focused on performance, scalability, and reliability.
+</div>
 
 ---
 
+## 💫 About Me
 
-## 📈 Contribution Graph
+Backend engineer with **2 years of hands-on experience** designing and shipping production systems — from enterprise .NET platforms to high-concurrency Go services for a US-based company.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahazmy&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I care about the parts users never see: clean architecture, sensible boundaries, observable services, fast pipelines, and code that still makes sense six months later.
 
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/abdullahazmyelsherbini/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201033390036">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
+- ⚡ **.NET / ASP.NET Core** — APIs, domain-driven design, background jobs
+- 🐹 **Go** — REST & gRPC microservices, concurrency, clean hexagonal layouts
+- ☁️ **DevOps** — Docker, Kubernetes, Azure, GitHub Actions, IaC
+- 🐧 **Linux** — daily driver, scripting, self-hosted tooling
+- 🗄 **PostgreSQL & SQL Server** — schema design, tuning, migrations
 
 ---
 
-# 💻 Competitive Programming
+## 💼 Experience
 
-<a href="https://codeforces.com/profile/abdullah_azmy">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</a>
+### Go Backend Engineer — [Idealistic Solutions](https://idealisticsolutions.com/)
+`Current` · Columbus, Ohio, USA · Remote
 
-<a href="https://leetcode.com/u/abdullahazmy/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow"/>
-</a>
+- Build and maintain Go backend services for the company's product suite, including **BridgeMind** (AI customer support across chat, email and voice) and internal automation platforms.
+- Design documented, versioned REST APIs and service layers that integrate third-party providers (Twilio, Telegram, WhatsApp, LLM APIs).
+- Own reliability concerns end to end: graceful shutdowns, structured logging, retries, timeouts, and observability for production traffic.
+- Collaborate directly with the owner and clients on a SAM-registered US small business — requirements, scoping, delivery.
 
-<a href="https://www.codewars.com/users/Abdullah30192">
-<img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars"/>
-</a>
+### Software Engineer (.NET) — Xyris For Digital Solutions
 
----
+- Delivered **ASP.NET Core** projects for major clients, including **Elsewedy** and **SharkTanks**, covering API design, integration layers and data access.
+- Applied **Clean Architecture** and DDD-flavoured layering to keep large enterprise solutions testable and maintainable.
+- Worked across the full delivery cycle: schema design, implementation, code review, deployment and post-release support.
 
-# ⚙️ Tech Stack
+### Team Lead & DevOps Engineer — Islam Port & AskAMuslim
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=go,dotnet,cs,cpp,c,java,python,javascript"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet,go"/>
-
-</p>
-
-### DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions"/>
-
-</p>
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,rider"/>
-
-</p>
+- Led a development team as **team lead**, running planning, code reviews and delivery for the **AskAMuslim** platform (`ask-aMuslim/AskAMuslimBackend` and its admin/front-end repos).
+- Owned the **DevOps** side: CI/CD pipelines with GitHub Actions, containerised builds, environment and secrets management, release automation.
+- Introduced permissions/role models, localization and file-upload infrastructure that the whole product builds on.
 
 ---
 
-# 🚀 Recent GitHub Activity
+## 🌍 Open Source
+
+- 🐧 **Omarchy** — shipped shell plugins to the ecosystem: an [ADHD-friendly Pomodoro timer](https://github.com/abdullahazmy/abdullah.adhd-pomodoro) and a [DevOps board](https://github.com/abdullahazmy/omarchy-devops-board) widget.
+- 📦 Active contributor to [`omacom/omarchy-plugin-marketplace`](https://github.com/omacom/omarchy-plugin-marketplace) — issue triage and plugin quality.
+- 🧰 Reported and helped debug issues in community tooling such as [linutil](https://github.com/ChrisTitusTech/linutil).
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer | Stack |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,go,cpp,c,java,python,js" height="24"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,go,graphql,redis" height="24"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,nginx" height="24"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" height="24"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,rider,postman" height="24"/> |
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description |
+| :--- | :--- |
+| [**AskAMuslimBackend**](https://github.com/ask-aMuslim/AskAMuslimBackend) | ASP.NET Core platform with role-based permissions, localization and file management |
+| [**Taskify.Api**](https://github.com/abdullahazmy/Taskify.Api) | Real-time task & team management platform |
+| [**TeacherComputerRetrieval**](https://github.com/abdullahazmy/TeacherComputerRetrieval) | Multi-layered C# console app solving graph routing with Dijkstra + xUnit suite |
+| [**adhd-pomodoro**](https://github.com/abdullahazmy/abdullah.adhd-pomodoro) | ADHD-friendly Pomodoro timer plugin for the Omarchy shell |
+
+---
+
+## 📈 Recent GitHub Activity
+
+<details>
+<summary>Show latest activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738#issuecomment-5845149280) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-
-2. 🔒 Closed issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-
-3. 🗣 Commented on [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651#issuecomment-5844616343) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-
-4. 🔒 Closed issue [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-
-5. ❗ Opened issue [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-
-6. ❗ Opened issue [#23](https://github.com/ChrisTitusTech/linutil/issues/23)
 <!--END_SECTION:activity-->
 
----
-
-# 🌱 Currently Learning
-
-- Advanced Go (Concurrency & Distributed Systems)
-- ASP.NET Core
-- Cloud Architecture
-- Kubernetes
-- DevOps Automation
-- System Design
-- High Performance APIs
+</details>
 
 ---
 
-# 📖 Favorite Quote
+## 🌱 Currently Learning
 
-> **"The best among you are those who learn the Qur'an and teach it."**  
+Advanced Go concurrency · distributed systems · Kubernetes · system design · high-performance APIs
+
+---
+
+## 📖 Favorite Quote
+
+> **"The best among you are those who learn the Qur'an and teach it."**
 > — Prophet Muhammad ﷺ
 
----
+<br/>
 
 > **To Allah ˹alone˺ belongs the knowledge of what is hidden in the heavens and the earth. And to Him all matters are returned. So worship Him and put your trust in Him. And your Lord is never unaware of what you do.**
 >
 > **— Quran 11:123**
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
