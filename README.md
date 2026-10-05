@@ -91,11 +91,11 @@ I care about the parts users never see: clean architecture, sensible boundaries,
 <summary>Show latest activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Abdelrahman984/smart-hadith-tree-web/pull/1) in [Abdelrahman984/smart-hadith-tree-web](https://github.com/Abdelrahman984/smart-hadith-tree-web)
-2. 💪 Opened PR [#1](https://github.com/Abdelrahman984/smart-hadith-tree-web/pull/1) in [Abdelrahman984/smart-hadith-tree-web](https://github.com/Abdelrahman984/smart-hadith-tree-web)
-3. 🗣 Commented on [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738#issuecomment-5845149280) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-4. 🔒 Closed issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-5. 🗣 Commented on [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651#issuecomment-5844616343) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+1. 🗣 Commented on [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738#issuecomment-5845149280) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+2. 🔒 Closed issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+3. 🗣 Commented on [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651#issuecomment-5844616343) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+4. 🔒 Closed issue [#8651](https://github.com/omacom/omarchy-plugin-marketplace/issues/8651) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+5. ❗ Opened issue [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 <!--END_SECTION:activity-->
 
 </details>
