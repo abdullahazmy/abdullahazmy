@@ -91,11 +91,11 @@ I care about the parts users never see: clean architecture, sensible boundaries,
 <summary>Show latest activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10233](https://github.com/omacom/omarchy-plugin-marketplace/issues/10233) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-2. 🔒 Closed issue [#8643](https://github.com/omacom/omarchy-plugin-marketplace/issues/8643) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-3. 🚀 Published release [lower RAM/CPU use, fix pre-warnings and autostart](https://github.com/abdullahazmy/abdullah.adhd-pomodoro/releases/tag/v0.1.13) in [abdullahazmy/abdullah.adhd-pomodoro](https://github.com/abdullahazmy/abdullah.adhd-pomodoro)
-4. 🗣 Commented on [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738#issuecomment-5845149280) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
-5. 🔒 Closed issue [#8658](https://github.com/omacom/omarchy-plugin-marketplace/issues/8658) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+1. 🔒 Closed issue [#8007](https://github.com/omacom/omarchy-plugin-marketplace/issues/8007) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+2. ❗ Opened issue [#10233](https://github.com/omacom/omarchy-plugin-marketplace/issues/10233) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+3. 🔒 Closed issue [#8643](https://github.com/omacom/omarchy-plugin-marketplace/issues/8643) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+4. 🚀 Published release [lower RAM/CPU use, fix pre-warnings and autostart](https://github.com/abdullahazmy/abdullah.adhd-pomodoro/releases/tag/v0.1.13) in [abdullahazmy/abdullah.adhd-pomodoro](https://github.com/abdullahazmy/abdullah.adhd-pomodoro)
+5. 🗣 Commented on [#8738](https://github.com/omacom/omarchy-plugin-marketplace/issues/8738#issuecomment-5845149280) in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 <!--END_SECTION:activity-->
 
 </details>
